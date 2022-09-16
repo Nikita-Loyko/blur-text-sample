@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Blur Text Sample</string>
+    <string name="default_test_text">Nice! Where are you going?</string>
+    <string name="default_text_to_blur">Where, going?</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
 </resources>
